@@ -1,6 +1,5 @@
 # Vibration Study of 2.2 Road (Gymkhana to Nehru Museum), IIT Kharagpur
-
-**Date:** November 12, 2025  
+### MECHATRONICS LABORATORY (ME22201) Course Project
 **Prepared by:** C2G15 Group (P Prajit – 24MF10047, Riddhi Maiti – 24MF10051, Nare Mahith Sai – 24MF10043)
 
 ---
@@ -22,7 +21,6 @@ This report documents a vibration measurement study carried out along the 2.2 Ro
 9. Conclusions
 10. Recommendations
 11. References
-12. Appendices
 
 ---
 
@@ -98,19 +96,24 @@ The project utilizes a circuit connected via a breadboard integrating the Arduin
 ## 7. Results
 The data collection yielded several major graphical interpretations outlining the vibrational impacts along the route:
 * **Raw and Filtered Accelerations:** Visualized across the X, Y, and Z axes for both the MPU6050 and ADXL345 sensors.
+  
+  ![Raw and Filtered Acceleration Data](figure3.png)
 * **Ride Comfort Trend:** A graph displaying RMS Dynamic Acceleration computed over 1-second windows, where lower values correlate to a smoother ride and higher values indicate roughness.
+  
+  ![Ride Comfort Trend](figure4.png)
 * **Detected Road Disturbances:** A resultant acceleration plot highlighting localized bumps and potholes marked by defined peaks.
+  
+  ![Detected Road Disturbances](figure5.png)
 * **VDV Ride Harshness Index:** Displayed alongside detected bump/pothole events for objective comfort assessment.
+  
+  ![VDV Ride Harshness Index](figure6.png)
 * **Geolocation Heatmap:** A visual map noting severity hotspots, speed, and specific acceleration metrics for notable bump locations.
+  
+  ![Geolocation Heatmap](figure7.png)
 * **Hardware Setup:** The functional circuit was assembled on cardboard plating, double-taped to the floor of the toto, and connected to a laptop running Coolterm for data collection.
-
-![Raw and Filtered Acceleration Data](figure3.png)
-![Ride Comfort Trend](figure4.png)
-![Detected Road Disturbances](figure5.png)
-![VDV Ride Harshness Index](figure6.png)
-![Geolocation Heatmap](figure7.png)
-![Hardware Setup (Arduino Circuit)](figure8.jpg)
-![Circuit in Toto](figure9.jpg)
+  
+  ![Hardware Setup (Arduino Circuit)](figure8.jpg)
+  ![Circuit in Toto](figure9.jpg)
 
 ---
 
