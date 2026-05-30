@@ -8,8 +8,6 @@
 ## Abstract
 This report documents a vibration measurement study carried out along the 2.2 Road route from Gymkhana to Nehru Museum at IIT Kharagpur. Measurements were taken by riding a campus toto equipped with two inertial sensors (MPU6050 and ADXL345) and a GPS receiver to provide geographic tagging. The objective of this study was to characterize road roughness and the in-vehicle vibrational environment, ultimately providing actionable recommendations for road maintenance and vehicle comfort. 
 
-> **Note:** This project was partially inspired by Professor Vikranth Racherla’s case study on the dynamics of bogeys.
-
 ---
 
 ## Table of Contents
