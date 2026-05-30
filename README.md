@@ -111,8 +111,8 @@ The data collection yielded several major graphical interpretations outlining th
 ![Detected Road Disturbances](figure5.png)
 ![VDV Ride Harshness Index](figure6.png)
 ![Geolocation Heatmap](figure7.png)
-![Hardware Setup (Arduino Circuit)](figure8.png)
-![Circuit in Toto](figure9.png)
+![Hardware Setup (Arduino Circuit)](figure8.jpg)
+![Circuit in Toto](figure9.jpg)
 
 ---
 
