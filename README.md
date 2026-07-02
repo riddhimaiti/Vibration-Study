@@ -1,4 +1,4 @@
-# Vibration Study of 2.2 Road (Gymkhana to Nehru Museum), IIT Kharagpur
+# GPS-Based Road Condition Monitoring Using Low-Cost Inertial Sensors
 ### MECHATRONICS LABORATORY (ME22201) Course Project
 **Prepared by:** C2G15 Group (P Prajit – 24MF10047, Riddhi Maiti – 24MF10051, Nare Mahith Sai – 24MF10043)
 
